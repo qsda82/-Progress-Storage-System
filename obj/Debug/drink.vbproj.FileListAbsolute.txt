@@ -1,0 +1,188 @@
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbprojAssemblyReference.cache
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.order.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.GenerateResource.cache
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\bin\Debug\database.mdb
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_class.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.start_form.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_orderdata.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_search.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.spec_caculate.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.revise_drinkdata.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_managment.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_revise.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_delete.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_search.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_create.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_delete.resources
+D:\桌面\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_revise.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\database.mdb
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbprojAssemblyReference.cache
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_create.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_class.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_delete.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_managment.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_orderdata.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_revise.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_delete.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_revise.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_search.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.revise_drinkdata.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_search.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.spec_caculate.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.start_form.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.order.resources
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.GenerateResource.cache
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.CoreCompileInputs.cache
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\大三上\系分\系統分析(2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_create.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\database.mdb
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbprojAssemblyReference.cache
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_create.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_class.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_delete.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_managment.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_orderdata.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_revise.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_create.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_delete.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_revise.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_search.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.revise_drinkdata.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_search.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.spec_caculate.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.start_form.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.order.resources
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.GenerateResource.cache
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\桌面\新增資料夾 (2)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\database.mdb
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbprojAssemblyReference.cache
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_create.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_class.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_delete.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_managment.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_orderdata.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_revise.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_create.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_delete.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_revise.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_search.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.revise_drinkdata.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_search.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.spec_caculate.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.start_form.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.order.resources
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.GenerateResource.cache
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.CoreCompileInputs.cache
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\大三上\系分\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\database.mdb
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbprojAssemblyReference.cache
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_create.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_class.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_delete.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_managment.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_orderdata.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_revise.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_create.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_delete.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_revise.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_search.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.revise_drinkdata.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_search.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.spec_caculate.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.start_form.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.order.resources
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.GenerateResource.cache
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\桌面\綠茶\大學作業和報告\系統分析(3)\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\bin\Debug\database.mdb
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbprojAssemblyReference.cache
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_create.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_class.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_delete.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_managment.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_orderdata.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_revise.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_create.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_delete.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_revise.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_search.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.revise_drinkdata.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_search.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.spec_caculate.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.start_form.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.order.resources
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.GenerateResource.cache
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\桌面\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.CoreCompileInputs.cache
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.AssemblyReference.cache
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.SuggestedBindingRedirects.cache
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_create.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_class.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_delete.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_managment.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_orderdata.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_revise.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_create.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_delete.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_revise.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.inventory_search.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.revise_drinkdata.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.drink_search.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.spec_caculate.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.start_form.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.order.resources
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.GenerateResource.cache
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\drink.vbproj.CoreCompileInputs.cache
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\110909\Desktop\綠茶\大學作業和報告\程式類\系統分析\系統分析\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
